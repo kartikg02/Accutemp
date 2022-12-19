@@ -1,7 +1,7 @@
 
 Developed a Weather Application by using React.js and Weather Application Programming Interface(API)
 
-## Methodolodgy
+## Methodology
 
 1)Home Page -> 2) Loaction input -> 3) API call to fetch weather data -> 4) Display weather data -> (2)
 
